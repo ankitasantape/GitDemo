@@ -7,3 +7,5 @@ Git Commands
 3. push
 4. pull
 5. merge
+
+Thank You !
